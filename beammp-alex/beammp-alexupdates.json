@@ -1,0 +1,13 @@
+[
+    {
+        "UpdateStageName": "DownloadServer",
+        "UpdateSourcePlatform": "Windows",
+        "UpdateSource": "GithubRelease",
+        "UpdateSourceData": "BeamMP-Server.exe",
+        "UpdateSourceArgs": "BeamMP/BeamMP-Server",
+        "UnzipUpdateSource": false,
+        "OverwriteExistingFiles": false,
+        "DeleteAfterExtract": true,
+        "OneShot": false
+    }
+]
