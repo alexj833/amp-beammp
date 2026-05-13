@@ -1,8 +1,10 @@
-[
-  {
-    "id": "alex-beammp-template",
-    "origin": "Alex",
-    "url": "https://github.com/alexj833/amp-beammp",
-    "prefix": "Custom"
-  }
-]
+{
+    "id": "b71c98d7-3901-4d1a-b6c2-cd64407fcf48",
+    "authors": [
+        "alexdev - Made with AMP Config Generator"
+    ],
+    "origin": "https://github.com/alexdev - Made with AMP Config Generator/AMPTemplates.git",
+    "url": "https://github.com/alexdev - Made with AMP Config Generator/AMPTemplates",
+    "imagefile": "",
+    "prefix": "alexdev - Made with AMP Config Generator"
+}
