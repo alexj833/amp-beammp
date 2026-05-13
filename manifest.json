@@ -1,8 +1,6 @@
-[
-  {
-    "id": "alex-beammp-template",
-    "origin": "Alex",
-    "url": "https://github.com/alexj833/amp-beammp",
-    "prefix": "Custom"
-  }
-]
+{
+  "id": "alex-beammp-template",
+  "origin": "Alex",
+  "url": "https://github.com/alexj833/amp-beammp",
+  "prefix": "Custom"
+}
